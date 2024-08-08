@@ -1,0 +1,414 @@
+id,name,species,gender,personality,sign,birthdayMonth,birthdayDay
+villagers_1,Ace,Bird,Male,Jock,Leo,August,11
+villagers_2,Admiral,Bird,Male,Cranky,Aquarius,January,27
+villagers_3,Agent S,Squirrel,Female,Peppy,Cancer,July,2
+villagers_4,Agnes,Pig,Female,Big sister,Taurus,April,21
+villagers_6,Al,Gorilla,Male,Lazy,Libra,October,18
+villagers_7,Alfonso,Alligator,Male,Lazy,Gemini,June,9
+villagers_8,Alice,Koala,Female,Normal,Leo,August,19
+villagers_9,Alli,Alligator,Female,Snooty,Scorpio,November,8
+villagers_10,Amelia,Eagle,Female,Snooty,Scorpio,November,19
+villagers_11,Anabelle,Anteater,Female,Peppy,Aquarius,February,16
+villagers_13,Anchovy,Bird,Male,Lazy,Pisces,March,4
+villagers_14,Angus,Bull,Male,Cranky,Taurus,April,30
+villagers_15,Anicotti,Mouse,Female,Peppy,Pisces,February,24
+villagers_16,Ankha,Cat,Female,Snooty,Virgo,September,22
+villagers_17,Annalisa,Anteater,Female,Normal,Aquarius,February,6
+villagers_18,Annalise,Horse,Female,Snooty,Sagittarius,December,2
+villagers_19,Antonio,Anteater,Male,Jock,Libra,October,20
+villagers_20,Apollo,Eagle,Male,Cranky,Cancer,July,4
+villagers_21,Apple,Hamster,Female,Peppy,Libra,September,24
+villagers_22,Astrid,Kangaroo,Female,Snooty,Virgo,September,8
+villagers_23,Audie,Wolf,Female,Peppy,Virgo,August,31
+villagers_24,Aurora,Penguin,Female,Normal,Aquarius,January,27
+villagers_25,Ava,Chicken,Female,Normal,Taurus,April,28
+villagers_26,Avery,Eagle,Male,Cranky,Pisces,February,22
+villagers_27,Axel,Elephant,Male,Jock,Aries,March,23
+villagers_28,Azalea,Rhinoceros,Female,Snooty,Sagittarius,December,18
+villagers_30,Baabara,Sheep,Female,Snooty,Aries,March,28
+villagers_31,Bam,Deer,Male,Jock,Scorpio,November,7
+villagers_32,Bangle,Tiger,Female,Peppy,Virgo,August,27
+villagers_33,Barold,Bear cub,Male,Lazy,Pisces,March,2
+villagers_34,Bea,Dog,Female,Normal,Libra,October,15
+villagers_35,Beardo,Bear,Male,Smug,Libra,September,27
+villagers_36,Beau,Deer,Male,Lazy,Aries,April,5
+villagers_37,Becky,Chicken,Female,Snooty,Sagittarius,December,9
+villagers_38,Bella,Mouse,Female,Peppy,Capricorn,December,28
+villagers_40,Benedict,Chicken,Male,Lazy,Libra,October,10
+villagers_41,Benjamin,Dog,Male,Lazy,Leo,August,3
+villagers_42,Bertha,Hippo,Female,Normal,Taurus,April,25
+villagers_44,Bettina,Mouse,Female,Normal,Gemini,June,12
+villagers_46,Bianca,Tiger,Female,Peppy,Sagittarius,December,13
+villagers_47,Biff,Hippo,Male,Jock,Aries,March,29
+villagers_48,Big Top,Elephant,Male,Lazy,Libra,October,3
+villagers_49,Bill,Duck,Male,Jock,Aquarius,February,1
+villagers_50,Billy,Goat,Male,Jock,Aries,March,25
+villagers_51,Biskit,Dog,Male,Lazy,Taurus,May,13
+villagers_52,Bitty,Hippo,Female,Snooty,Libra,October,6
+villagers_53,Blaire,Squirrel,Female,Snooty,Cancer,July,3
+villagers_54,Blanche,Ostrich,Female,Snooty,Sagittarius,December,21
+villagers_55,Bluebear,Bear cub,Female,Peppy,Cancer,June,24
+villagers_56,Bob,Cat,Male,Lazy,Capricorn,January,1
+villagers_57,Bonbon,Rabbit,Female,Peppy,Pisces,March,3
+villagers_58,Bones,Dog,Male,Lazy,Leo,August,4
+villagers_59,Boomer,Penguin,Male,Lazy,Aquarius,February,7
+villagers_60,Boone,Gorilla,Male,Jock,Virgo,September,12
+villagers_61,Boots,Alligator,Male,Jock,Leo,August,7
+villagers_62,Boris,Pig,Male,Cranky,Scorpio,November,6
+villagers_64,Boyd,Gorilla,Male,Cranky,Libra,October,1
+villagers_65,Bree,Mouse,Female,Snooty,Cancer,July,7
+villagers_66,Broccolo,Mouse,Male,Lazy,Cancer,June,30
+villagers_67,Broffina,Chicken,Female,Snooty,Scorpio,October,24
+villagers_68,Bruce,Deer,Male,Cranky,Gemini,May,26
+villagers_69,Bubbles,Hippo,Female,Peppy,Virgo,September,18
+villagers_70,Buck,Horse,Male,Jock,Aries,April,4
+villagers_71,Bud,Lion,Male,Jock,Leo,August,8
+villagers_72,Bunnie,Rabbit,Female,Peppy,Taurus,May,9
+villagers_73,Butch,Dog,Male,Cranky,Scorpio,November,1
+villagers_74,Buzz,Eagle,Male,Cranky,Sagittarius,December,7
+villagers_75,Cally,Squirrel,Female,Normal,Virgo,September,4
+villagers_76,Camofrog,Frog,Male,Cranky,Gemini,June,5
+villagers_77,Canberra,Koala,Female,Big sister,Taurus,May,14
+villagers_78,Candi,Mouse,Female,Peppy,Aries,April,13
+villagers_79,Carmen,Rabbit,Female,Peppy,Capricorn,January,6
+villagers_81,Caroline,Squirrel,Female,Normal,Cancer,July,15
+villagers_82,Carrie,Kangaroo,Female,Normal,Sagittarius,December,5
+villagers_84,Cashmere,Sheep,Female,Snooty,Aries,April,2
+villagers_86,Celia,Eagle,Female,Normal,Aries,March,25
+villagers_87,Cephalobot,Octopus,Male,Smug,Aries,April,1
+villagers_88,Cesar,Gorilla,Male,Cranky,Virgo,September,6
+villagers_89,Chabwick,Penguin,Male,Lazy,Capricorn,December,24
+villagers_90,Chadder,Mouse,Male,Smug,Sagittarius,December,15
+villagers_91,Chai,Elephant,Female,Peppy,Pisces,March,6
+villagers_93,Charlise,Bear,Female,Big sister,Aries,April,17
+villagers_94,Chelsea,Deer,Female,Normal,Capricorn,January,18
+villagers_95,Cheri,Bear cub,Female,Peppy,Pisces,March,17
+villagers_96,Cherry,Dog,Female,Big sister,Taurus,May,11
+villagers_97,Chester,Bear cub,Male,Lazy,Leo,August,6
+villagers_98,Chevre,Goat,Female,Normal,Pisces,March,6
+villagers_100,Chief,Wolf,Male,Cranky,Sagittarius,December,19
+villagers_101,Chops,Pig,Male,Smug,Libra,October,13
+villagers_102,Chow,Bear,Male,Cranky,Cancer,July,22
+villagers_103,Chrissy,Rabbit,Female,Peppy,Virgo,August,28
+villagers_106,Claude,Rabbit,Male,Lazy,Sagittarius,December,3
+villagers_107,Claudia,Tiger,Female,Snooty,Scorpio,November,22
+villagers_108,Clay,Hamster,Male,Lazy,Libra,October,19
+villagers_109,Cleo,Horse,Female,Snooty,Aquarius,February,9
+villagers_110,Clyde,Horse,Male,Lazy,Taurus,May,1
+villagers_111,Coach,Bull,Male,Jock,Taurus,April,29
+villagers_112,Cobb,Pig,Male,Jock,Libra,October,7
+villagers_113,Coco,Rabbit,Female,Normal,Pisces,March,1
+villagers_114,Cole,Rabbit,Male,Lazy,Leo,August,10
+villagers_115,Colton,Horse,Male,Smug,Gemini,May,22
+villagers_116,Cookie,Dog,Female,Peppy,Gemini,June,18
+villagers_117,Cousteau,Frog,Male,Jock,Sagittarius,December,17
+villagers_118,Cranston,Ostrich,Male,Lazy,Libra,September,23
+villagers_119,Croque,Frog,Male,Cranky,Cancer,July,18
+villagers_120,Cube,Penguin,Male,Lazy,Aquarius,January,29
+villagers_122,Curlos,Sheep,Male,Smug,Taurus,May,8
+villagers_123,Curly,Pig,Male,Jock,Leo,July,26
+villagers_124,Curt,Bear,Male,Cranky,Cancer,July,1
+villagers_125,Cyd,Elephant,Male,Cranky,Gemini,June,9
+villagers_126,Cyrano,Anteater,Male,Cranky,Pisces,March,9
+villagers_127,Daisy,Dog,Female,Normal,Scorpio,November,16
+villagers_128,Deena,Duck,Female,Normal,Cancer,June,27
+villagers_129,Deirdre,Deer,Female,Big sister,Taurus,May,4
+villagers_130,Del,Alligator,Male,Cranky,Gemini,May,27
+villagers_131,Deli,Monkey,Male,Lazy,Gemini,May,24
+villagers_132,Derwin,Duck,Male,Lazy,Gemini,May,25
+villagers_133,Diana,Deer,Female,Snooty,Capricorn,January,4
+villagers_134,Diva,Frog,Female,Big sister,Libra,October,2
+villagers_135,Dizzy,Elephant,Male,Lazy,Cancer,July,14
+villagers_136,Dobie,Wolf,Male,Cranky,Aquarius,February,17
+villagers_137,Doc,Rabbit,Male,Lazy,Pisces,March,16
+villagers_138,Dom,Sheep,Male,Jock,Pisces,March,18
+villagers_139,Dora,Mouse,Female,Normal,Aquarius,February,18
+villagers_140,Dotty,Rabbit,Female,Peppy,Pisces,March,14
+villagers_142,Drago,Alligator,Male,Lazy,Aquarius,February,12
+villagers_143,Drake,Duck,Male,Lazy,Cancer,June,25
+villagers_144,Drift,Frog,Male,Jock,Libra,October,9
+villagers_145,Ed,Horse,Male,Smug,Virgo,September,16
+villagers_146,Egbert,Chicken,Male,Lazy,Libra,October,14
+villagers_148,Elise,Monkey,Female,Snooty,Aries,March,21
+villagers_149,Ellie,Elephant,Female,Normal,Taurus,May,12
+villagers_150,Elmer,Horse,Male,Lazy,Libra,October,5
+villagers_151,Eloise,Elephant,Female,Snooty,Sagittarius,December,8
+villagers_152,Elvis,Lion,Male,Cranky,Leo,July,23
+villagers_155,Erik,Deer,Male,Lazy,Leo,July,27
+villagers_156,Étoile,Sheep,Female,Normal,Capricorn,December,25
+villagers_157,Eugene,Koala,Male,Smug,Scorpio,October,26
+villagers_158,Eunice,Sheep,Female,Normal,Aries,April,3
+villagers_159,Faith,Koala,Female,Big sister,Aries,March,21
+villagers_160,Fang,Wolf,Male,Cranky,Sagittarius,December,18
+villagers_161,Fauna,Deer,Female,Normal,Aries,March,26
+villagers_162,Felicity,Cat,Female,Peppy,Aries,March,30
+villagers_164,Filbert,Squirrel,Male,Lazy,Gemini,June,3
+villagers_167,Flip,Monkey,Male,Jock,Scorpio,November,21
+villagers_168,Flo,Penguin,Female,Big sister,Virgo,September,2
+villagers_169,Flora,Ostrich,Female,Peppy,Aquarius,February,9
+villagers_171,Flurry,Hamster,Female,Normal,Aquarius,January,30
+villagers_172,Francine,Rabbit,Female,Snooty,Aquarius,January,22
+villagers_173,Frank,Eagle,Male,Cranky,Leo,July,30
+villagers_174,Freckles,Duck,Female,Peppy,Pisces,February,19
+villagers_175,Frett,Dog,Male,Cranky,Scorpio,October,30
+villagers_176,Freya,Wolf,Female,Snooty,Sagittarius,December,14
+villagers_177,Friga,Penguin,Female,Snooty,Libra,October,16
+villagers_178,Frita,Sheep,Female,Big sister,Cancer,July,16
+villagers_179,Frobert,Frog,Male,Jock,Aquarius,February,8
+villagers_181,Fuchsia,Deer,Female,Big sister,Virgo,September,19
+villagers_182,Gabi,Rabbit,Female,Peppy,Sagittarius,December,16
+villagers_183,Gala,Pig,Female,Normal,Pisces,March,5
+villagers_185,Gaston,Rabbit,Male,Cranky,Scorpio,October,28
+villagers_186,Gayle,Alligator,Female,Normal,Taurus,May,17
+villagers_188,Genji,Rabbit,Male,Jock,Aquarius,January,21
+villagers_189,Gigi,Frog,Female,Snooty,Leo,August,11
+villagers_190,Gladys,Ostrich,Female,Normal,Capricorn,January,15
+villagers_191,Gloria,Duck,Female,Snooty,Leo,August,12
+villagers_192,Goldie,Dog,Female,Normal,Capricorn,December,27
+villagers_193,Gonzo,Koala,Male,Cranky,Libra,October,13
+villagers_194,Goose,Chicken,Male,Jock,Libra,October,4
+villagers_195,Graham,Hamster,Male,Smug,Gemini,June,20
+villagers_196,Greta,Mouse,Female,Snooty,Virgo,September,5
+villagers_197,Grizzly,Bear,Male,Cranky,Leo,July,31
+villagers_198,Groucho,Bear,Male,Cranky,Libra,October,23
+villagers_199,Gruff,Goat,Male,Cranky,Virgo,August,29
+villagers_200,Gwen,Penguin,Female,Snooty,Aquarius,January,23
+villagers_202,Hamlet,Hamster,Male,Jock,Gemini,May,30
+villagers_203,Hamphrey,Hamster,Male,Cranky,Pisces,February,25
+villagers_205,Hans,Gorilla,Male,Smug,Sagittarius,December,5
+villagers_206,Harry,Hippo,Male,Cranky,Capricorn,January,7
+villagers_207,Hazel,Squirrel,Female,Big sister,Virgo,August,30
+villagers_209,Henry,Frog,Male,Smug,Virgo,September,21
+villagers_210,Hippeux,Hippo,Male,Smug,Libra,October,15
+villagers_212,Hopkins,Rabbit,Male,Lazy,Pisces,March,11
+villagers_213,Hopper,Penguin,Male,Cranky,Aries,April,6
+villagers_214,Hornsby,Rhinoceros,Male,Lazy,Pisces,March,20
+villagers_215,Huck,Frog,Male,Smug,Cancer,July,9
+villagers_217,Hugh,Pig,Male,Lazy,Capricorn,December,30
+villagers_218,Iggly,Penguin,Male,Jock,Scorpio,November,2
+villagers_220,Ike,Bear,Male,Cranky,Taurus,May,16
+villagers_222,Ione,Squirrel,Female,Normal,Virgo,September,11
+villagers_223,Jacob,Bird,Male,Lazy,Virgo,August,24
+villagers_224,Jacques,Bird,Male,Smug,Cancer,June,22
+villagers_225,Jambette,Frog,Female,Normal,Scorpio,October,27
+villagers_227,Jay,Bird,Male,Jock,Cancer,July,17
+villagers_228,Jeremiah,Frog,Male,Lazy,Cancer,July,8
+villagers_229,Jitters,Bird,Male,Jock,Aquarius,February,2
+villagers_231,Joey,Duck,Male,Lazy,Capricorn,January,3
+villagers_233,Judy,Bear cub,Female,Snooty,Pisces,March,10
+villagers_234,Julia,Ostrich,Female,Snooty,Leo,July,31
+villagers_235,Julian,Horse,Male,Smug,Pisces,March,15
+villagers_236,June,Bear cub,Female,Normal,Gemini,May,21
+villagers_237,Kabuki,Cat,Male,Cranky,Sagittarius,November,29
+villagers_238,Katt,Cat,Female,Big sister,Taurus,April,27
+villagers_239,Keaton,Eagle,Male,Smug,Gemini,June,1
+villagers_240,Ken,Chicken,Male,Smug,Capricorn,December,23
+villagers_241,Ketchup,Duck,Female,Peppy,Leo,July,27
+villagers_242,Kevin,Pig,Male,Jock,Taurus,April,26
+villagers_243,Kid Cat,Cat,Male,Jock,Leo,August,1
+villagers_244,Kidd,Goat,Male,Smug,Cancer,June,28
+villagers_245,Kiki,Cat,Female,Normal,Libra,October,8
+villagers_247,Kitt,Kangaroo,Female,Normal,Libra,October,11
+villagers_248,Kitty,Cat,Female,Snooty,Aquarius,February,15
+villagers_249,Klaus,Bear,Male,Smug,Aries,March,31
+villagers_250,Knox,Chicken,Male,Cranky,Sagittarius,November,23
+villagers_251,Kody,Bear cub,Male,Jock,Libra,September,28
+villagers_253,Kyle,Wolf,Male,Smug,Sagittarius,December,6
+villagers_255,Leonardo,Tiger,Male,Jock,Taurus,May,15
+villagers_256,Leopold,Lion,Male,Smug,Leo,August,14
+villagers_257,Lily,Frog,Female,Normal,Aquarius,February,4
+villagers_258,Limberg,Mouse,Male,Cranky,Libra,October,17
+villagers_259,Lionel,Lion,Male,Smug,Leo,July,29
+villagers_261,Lobo,Wolf,Male,Cranky,Scorpio,November,5
+villagers_262,Lolly,Cat,Female,Normal,Aries,March,27
+villagers_263,Lopez,Deer,Male,Smug,Leo,August,20
+villagers_264,Louie,Gorilla,Male,Jock,Aries,March,26
+villagers_265,Lucha,Bird,Male,Smug,Sagittarius,December,12
+villagers_266,Lucky,Dog,Male,Lazy,Scorpio,November,4
+villagers_267,Lucy,Pig,Female,Normal,Gemini,June,2
+villagers_270,Lyman,Koala,Male,Jock,Libra,October,12
+villagers_271,Mac,Dog,Male,Jock,Scorpio,November,11
+villagers_273,Maddie,Dog,Female,Peppy,Capricorn,January,11
+villagers_274,Maelle,Duck,Female,Snooty,Aries,April,8
+villagers_275,Maggie,Pig,Female,Normal,Virgo,September,3
+villagers_276,Mallary,Duck,Female,Snooty,Scorpio,November,17
+villagers_277,Maple,Bear cub,Female,Normal,Gemini,June,15
+villagers_278,Marcel,Dog,Male,Lazy,Capricorn,December,31
+villagers_279,Marcie,Kangaroo,Female,Normal,Gemini,May,31
+villagers_281,Margie,Elephant,Female,Normal,Aquarius,January,28
+villagers_282,Marina,Octopus,Female,Normal,Cancer,June,26
+villagers_283,Marlo,Hamster,Male,Cranky,Cancer,June,26
+villagers_284,Marshal,Squirrel,Male,Smug,Libra,September,29
+villagers_285,Marty,Bear cub,Male,Lazy,Aries,April,16
+villagers_287,Mathilda,Kangaroo,Female,Snooty,Scorpio,November,12
+villagers_289,Megan,Bear,Female,Normal,Pisces,March,13
+villagers_291,Melba,Koala,Female,Normal,Aries,April,12
+villagers_293,Merengue,Rhinoceros,Female,Normal,Pisces,March,19
+villagers_294,Merry,Cat,Female,Peppy,Cancer,June,29
+villagers_295,Midge,Bird,Female,Normal,Pisces,March,12
+villagers_296,Mint,Squirrel,Female,Snooty,Taurus,May,2
+villagers_297,Mira,Rabbit,Female,Big sister,Cancer,July,6
+villagers_298,Miranda,Duck,Female,Snooty,Taurus,April,23
+villagers_299,Mitzi,Cat,Female,Normal,Libra,September,25
+villagers_300,Moe,Cat,Male,Lazy,Capricorn,January,12
+villagers_301,Molly,Duck,Female,Normal,Pisces,March,7
+villagers_302,Monique,Cat,Female,Snooty,Libra,September,30
+villagers_303,Monty,Monkey,Male,Cranky,Sagittarius,December,7
+villagers_304,Moose,Mouse,Male,Jock,Virgo,September,13
+villagers_305,Mott,Lion,Male,Jock,Cancer,July,10
+villagers_306,Muffy,Sheep,Female,Big sister,Aquarius,February,14
+villagers_307,Murphy,Bear cub,Male,Cranky,Capricorn,December,29
+villagers_308,Nan,Goat,Female,Normal,Virgo,August,24
+villagers_309,Nana,Monkey,Female,Normal,Virgo,August,23
+villagers_310,Naomi,Cow,Female,Snooty,Pisces,February,28
+villagers_311,Nate,Bear,Male,Lazy,Leo,August,16
+villagers_312,Nibbles,Squirrel,Female,Peppy,Cancer,July,19
+villagers_314,Norma,Cow,Female,Normal,Virgo,September,20
+villagers_316,O'Hare,Rabbit,Male,Smug,Leo,July,24
+villagers_317,Octavian,Octopus,Male,Cranky,Virgo,September,20
+villagers_318,Olaf,Anteater,Male,Smug,Taurus,May,19
+villagers_319,Olive,Bear cub,Female,Normal,Cancer,July,12
+villagers_320,Olivia,Cat,Female,Snooty,Aquarius,February,3
+villagers_321,Opal,Elephant,Female,Snooty,Aquarius,January,20
+villagers_324,Ozzie,Koala,Male,Lazy,Taurus,May,7
+villagers_325,Pancetti,Pig,Female,Snooty,Scorpio,November,14
+villagers_326,Pango,Anteater,Female,Peppy,Scorpio,November,9
+villagers_327,Paolo,Elephant,Male,Lazy,Taurus,May,5
+villagers_328,Papi,Horse,Male,Lazy,Capricorn,January,10
+villagers_329,Pashmina,Goat,Female,Big sister,Capricorn,December,26
+villagers_330,Pate,Duck,Female,Peppy,Pisces,February,23
+villagers_332,Patty,Cow,Female,Peppy,Taurus,May,10
+villagers_333,Paula,Bear,Female,Big sister,Aries,March,22
+villagers_334,Peaches,Horse,Female,Normal,Sagittarius,November,28
+villagers_335,Peanut,Squirrel,Female,Peppy,Gemini,June,8
+villagers_336,Pecan,Squirrel,Female,Snooty,Virgo,September,10
+villagers_337,Peck,Bird,Male,Jock,Leo,July,25
+villagers_338,Peewee,Gorilla,Male,Cranky,Virgo,September,11
+villagers_339,Peggy,Pig,Female,Peppy,Gemini,May,23
+villagers_340,Pekoe,Bear cub,Female,Normal,Taurus,May,18
+villagers_341,Penelope,Mouse,Female,Peppy,Aquarius,February,5
+villagers_343,Petri,Mouse,Female,Snooty,Libra,October,23
+villagers_345,Phil,Ostrich,Male,Smug,Sagittarius,November,27
+villagers_346,Phoebe,Ostrich,Female,Big sister,Taurus,April,22
+villagers_347,Pierce,Eagle,Male,Jock,Capricorn,January,8
+villagers_349,Pietro,Sheep,Male,Smug,Aries,April,19
+villagers_351,Pinky,Bear,Female,Peppy,Virgo,September,9
+villagers_352,Piper,Bird,Female,Peppy,Aries,April,18
+villagers_353,Pippy,Rabbit,Female,Peppy,Gemini,June,14
+villagers_354,Plucky,Chicken,Female,Big sister,Libra,October,12
+villagers_356,Pompom,Duck,Female,Peppy,Aquarius,February,11
+villagers_357,Poncho,Bear cub,Male,Jock,Capricorn,January,2
+villagers_358,Poppy,Squirrel,Female,Normal,Leo,August,5
+villagers_359,Portia,Dog,Female,Snooty,Scorpio,October,25
+villagers_360,Prince,Frog,Male,Lazy,Cancer,July,21
+villagers_361,Puck,Penguin,Male,Lazy,Pisces,February,21
+villagers_362,Puddles,Frog,Female,Peppy,Capricorn,January,13
+villagers_363,Pudge,Bear cub,Male,Lazy,Gemini,June,11
+villagers_364,Punchy,Cat,Male,Lazy,Aries,April,11
+villagers_365,Purrl,Cat,Female,Snooty,Gemini,May,29
+villagers_366,Queenie,Ostrich,Female,Snooty,Scorpio,November,13
+villagers_368,Quillson,Duck,Male,Smug,Capricorn,December,22
+villagers_369,Quinn,Eagle,Female,Big sister,Aquarius,January,20
+villagers_370,Raddle,Frog,Male,Lazy,Gemini,June,6
+villagers_371,Rasher,Pig,Male,Cranky,Aries,April,7
+villagers_372,Raymond,Cat,Male,Smug,Libra,October,1
+villagers_373,Renée,Rhinoceros,Female,Big sister,Gemini,May,28
+villagers_374,Reneigh,Horse,Female,Big sister,Gemini,June,4
+villagers_375,Rex,Lion,Male,Lazy,Leo,July,24
+villagers_377,Rhonda,Rhinoceros,Female,Normal,Aquarius,January,24
+villagers_378,Ribbot,Frog,Male,Jock,Aquarius,February,13
+villagers_379,Ricky,Squirrel,Male,Cranky,Virgo,September,14
+villagers_380,Rilla,Gorilla,Female,Peppy,Scorpio,November,1
+villagers_381,Rio,Ostrich,Female,Peppy,Virgo,September,10
+villagers_382,Rizzo,Mouse,Male,Cranky,Capricorn,January,17
+villagers_383,Roald,Penguin,Male,Jock,Capricorn,January,5
+villagers_384,Robin,Bird,Female,Snooty,Sagittarius,December,4
+villagers_385,Rocco,Hippo,Male,Cranky,Leo,August,18
+villagers_386,Rocket,Gorilla,Female,Big sister,Aries,April,14
+villagers_387,Rod,Mouse,Male,Jock,Leo,August,14
+villagers_388,Rodeo,Bull,Male,Lazy,Scorpio,October,29
+villagers_389,Rodney,Hamster,Male,Smug,Scorpio,November,10
+villagers_390,Rolf,Tiger,Male,Cranky,Leo,August,22
+villagers_392,Rooney,Kangaroo,Male,Cranky,Sagittarius,December,1
+villagers_393,Rory,Lion,Male,Jock,Leo,August,7
+villagers_394,Roscoe,Horse,Male,Cranky,Gemini,June,16
+villagers_395,Rosie,Cat,Female,Peppy,Pisces,February,27
+villagers_396,Roswell,Alligator,Male,Smug,Taurus,May,2
+villagers_397,Rowan,Tiger,Male,Jock,Virgo,August,26
+villagers_398,Ruby,Rabbit,Female,Peppy,Capricorn,December,25
+villagers_399,Rudy,Cat,Male,Jock,Sagittarius,December,20
+villagers_400,Sally,Squirrel,Female,Normal,Gemini,June,19
+villagers_401,Samson,Mouse,Male,Jock,Cancer,July,5
+villagers_402,Sandy,Ostrich,Female,Normal,Libra,October,21
+villagers_403,Sasha,Rabbit,Male,Lazy,Taurus,May,19
+villagers_404,Savannah,Horse,Female,Normal,Aquarius,January,25
+villagers_405,Scoot,Duck,Male,Jock,Gemini,June,13
+villagers_406,Shari,Monkey,Female,Big sister,Aries,April,10
+villagers_407,Sheldon,Squirrel,Male,Jock,Pisces,February,26
+villagers_408,Shep,Dog,Male,Smug,Sagittarius,November,24
+villagers_409,Sherb,Goat,Male,Lazy,Capricorn,January,18
+villagers_411,Shino,Deer,Female,Peppy,Scorpio,October,31
+villagers_413,Simon,Monkey,Male,Lazy,Capricorn,January,19
+villagers_414,Skye,Wolf,Female,Normal,Aries,March,24
+villagers_415,Sly,Alligator,Male,Jock,Scorpio,November,15
+villagers_416,Snake,Rabbit,Male,Jock,Scorpio,November,3
+villagers_417,Snooty,Anteater,Female,Snooty,Scorpio,October,24
+villagers_418,Soleil,Hamster,Female,Snooty,Leo,August,9
+villagers_419,Sparro,Bird,Male,Jock,Scorpio,November,20
+villagers_420,Spike,Rhinoceros,Male,Cranky,Gemini,June,17
+villagers_421,Spork,Pig,Male,Lazy,Virgo,September,3
+villagers_422,Sprinkle,Penguin,Female,Peppy,Pisces,February,20
+villagers_423,Sprocket,Ostrich,Male,Jock,Sagittarius,December,1
+villagers_424,Static,Squirrel,Male,Cranky,Cancer,July,9
+villagers_425,Stella,Sheep,Female,Normal,Aries,April,9
+villagers_426,Sterling,Eagle,Male,Jock,Sagittarius,December,11
+villagers_427,Stinky,Cat,Male,Jock,Leo,August,17
+villagers_428,Stitches,Bear cub,Male,Lazy,Aquarius,February,10
+villagers_429,Stu,Bull,Male,Lazy,Taurus,April,20
+villagers_433,Sydney,Koala,Female,Normal,Gemini,June,21
+villagers_434,Sylvana,Squirrel,Female,Normal,Libra,October,22
+villagers_435,Sylvia,Kangaroo,Female,Big sister,Taurus,May,3
+villagers_436,T-Bone,Bull,Male,Cranky,Taurus,May,20
+villagers_437,Tabby,Cat,Female,Peppy,Leo,August,13
+villagers_438,Tad,Frog,Male,Jock,Leo,August,3
+villagers_439,Tammi,Monkey,Female,Peppy,Aries,April,2
+villagers_440,Tammy,Bear cub,Female,Big sister,Cancer,June,23
+villagers_441,Tangy,Cat,Female,Peppy,Gemini,June,17
+villagers_442,Tank,Rhinoceros,Male,Jock,Taurus,May,6
+villagers_444,Tasha,Squirrel,Female,Snooty,Sagittarius,November,30
+villagers_445,Teddy,Bear,Male,Jock,Libra,September,26
+villagers_446,Tex,Penguin,Male,Smug,Libra,October,6
+villagers_447,Tia,Elephant,Female,Normal,Scorpio,November,18
+villagers_448,Tiansheng,Monkey,Male,Jock,Leo,August,18
+villagers_450,Tiffany,Rabbit,Female,Snooty,Capricorn,January,9
+villagers_451,Timbra,Sheep,Female,Snooty,Libra,October,21
+villagers_452,Tipper,Cow,Female,Snooty,Virgo,August,25
+villagers_453,Toby,Rabbit,Male,Smug,Cancer,July,10
+villagers_454,Tom,Cat,Male,Cranky,Sagittarius,December,10
+villagers_455,Truffles,Pig,Female,Peppy,Leo,July,28
+villagers_456,Tucker,Elephant,Male,Lazy,Virgo,September,7
+villagers_457,Tutu,Bear,Female,Peppy,Virgo,September,15
+villagers_458,Twiggy,Bird,Female,Peppy,Cancer,July,13
+villagers_460,Tybalt,Tiger,Male,Jock,Leo,August,19
+villagers_461,Ursala,Bear,Female,Big sister,Capricorn,January,16
+villagers_463,Velma,Goat,Female,Snooty,Capricorn,January,14
+villagers_464,Vesta,Sheep,Female,Normal,Aries,April,16
+villagers_465,Vic,Bull,Male,Cranky,Capricorn,December,29
+villagers_467,Victoria,Horse,Female,Peppy,Cancer,July,11
+villagers_468,Violet,Gorilla,Female,Snooty,Virgo,September,1
+villagers_469,Vivian,Wolf,Female,Snooty,Aquarius,January,26
+villagers_470,Vladimir,Bear cub,Male,Cranky,Leo,August,2
+villagers_472,Wade,Penguin,Male,Lazy,Scorpio,October,30
+villagers_473,Walker,Dog,Male,Lazy,Gemini,June,10
+villagers_474,Walt,Kangaroo,Male,Cranky,Taurus,April,24
+villagers_475,Wart Jr.,Frog,Male,Cranky,Leo,August,21
+villagers_476,Weber,Duck,Male,Lazy,Cancer,June,30
+villagers_478,Wendy,Sheep,Female,Peppy,Leo,August,15
+villagers_479,Whitney,Wolf,Female,Snooty,Virgo,September,17
+villagers_480,Willow,Sheep,Female,Snooty,Sagittarius,November,26
+villagers_481,Winnie,Horse,Female,Peppy,Aquarius,January,31
+villagers_482,Wolfgang,Wolf,Male,Cranky,Sagittarius,November,25
+villagers_485,Yuka,Koala,Female,Snooty,Cancer,July,20
+villagers_486,Zell,Deer,Male,Smug,Gemini,June,7
+villagers_487,Zoe,Anteater,Female,Normal,Aquarius,February,10
+villagers_488,Zucker,Octopus,Male,Lazy,Pisces,March,8

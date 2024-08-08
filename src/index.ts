@@ -1,10 +1,11 @@
 import axios from "axios";
 import express from "express";
-import request from 'request'
-import { buildAcnhApiUrl, HttpMethods } from "./services/buildApiUrl";
-import { makeApiCall } from "./services/makeApiCall";
+import request from 'request';
+import { clothingController } from "./functions/clothing/getClothing";
+import { IMapJsonCsv, mapClothing, mapFurniture, mapInterior, mapMiscellaneousItems, mapPhotos, mapRecipes, mapTools, mapVillagers, writeJsonToCsvFile } from "./utils/writeJsonToCsvFile";
 
 const PORT = 4242;
+export const NOOKIPEDIA_TOKEN = 'e6232547-0afc-438f-8964-72b898a0d172';
 
 const server = express();
 
@@ -16,16 +17,42 @@ server.listen(PORT, () => {
   console.log("Express TypeScript Server is running...");
 });
 
-/**
- * Test call using the wrapper function makeApiCall
- */
-server.get('/makeApiCall', async (req, res) => {
-  const requestUrl = 'http://acnhapi.com/v1/fish/1';
-  const response = await makeApiCall(requestUrl);
-  console.log(JSON.stringify(response));
+server.get('/clothing', async (req, res) => {
+  const controllerOptions = {};
+  const response = await clothingController(controllerOptions);
   res.send(response);
 })
 
+server.get('/mapStuff', async (req, res) => {
+  const clothingInput: IMapJsonCsv = mapClothing();
+  const recipesInput: IMapJsonCsv = mapRecipes();
+  const furnitureInput: IMapJsonCsv = mapFurniture();
+  const interiorInput: IMapJsonCsv = mapInterior();
+  const toolsInput: IMapJsonCsv = mapTools();
+  const photosInput: IMapJsonCsv = mapPhotos();
+  const miscItemInput: IMapJsonCsv = mapMiscellaneousItems();
+  const villagersInput: IMapJsonCsv = mapVillagers();
+
+  const thingsToMap: IMapJsonCsv[] = [
+    clothingInput,
+    recipesInput,
+    furnitureInput,
+    interiorInput,
+    toolsInput,
+    photosInput,
+    miscItemInput,
+    villagersInput
+  ];
+
+  let responseString = 'things mapped: '
+  thingsToMap.forEach((thing, index) => {
+    writeJsonToCsvFile(thing);
+    responseString += `${thingsToMap[index].jsonArr.length}\n`
+  });
+  res.send(`${responseString}`)
+})
+
+// #region Routes for testing api calls
 /**
  * Test call using 'axios'
  */
@@ -59,3 +86,4 @@ server.get('/testRequestCall', async (req, res) => {
   );
 
 })
+// #endregion

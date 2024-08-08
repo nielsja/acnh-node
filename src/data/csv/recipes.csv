@@ -1,0 +1,925 @@
+id,name,unlockCount,availability
+recipes_1,Acorn Pochette,0,Balloons 
+recipes_2,Acorn Rug,0,Balloons 
+recipes_3,Acoustic Guitar,0,Smug villager 
+recipes_4,Aji Fry,0,Fishing 
+recipes_5,Anchoas al Ajillo,0,Fishing 
+recipes_6,Angled Signpost,100,Lazy villager 
+recipes_7,Apple Chair,100,Tom Nook Big sister villager 
+recipes_8,Apple Dress,100,Big sister villager 
+recipes_9,Apple Hat,100,Big sister villager 
+recipes_10,Apple Jam,0,Any villager Restaurant 
+recipes_11,Apple Jelly,0,Any villager Restaurant 
+recipes_12,Apple Pie,0,Any villager Restaurant 
+recipes_13,Apple Rug,100,Big sister villager 
+recipes_14,Apple Smoothie,0,Any villager Be a Chef! DIY Recipes+ 
+recipes_15,Apple Tart,0,Any villager Restaurant 
+recipes_16,Apple Umbrella,100,Big sister villager 
+recipes_17,Apple Wall,100,Big sister villager 
+recipes_18,Aquarius Urn,0,Celeste Message Bottle 
+recipes_19,Aries Rocking Chair,0,Celeste Message Bottle 
+recipes_20,Armor Shoes,100,Cranky villager 
+recipes_21,Aroma Pot,0,Snooty villager 
+recipes_22,Asteroid,0,Celeste Message Bottle 
+recipes_23,Astronaut Suit,0,Celeste Message Bottle 
+recipes_24,Autumn Wall,0,Balloons Message Bottle 
+recipes_25,Axe,0,Pretty Good Tools Recipes 
+recipes_26,Backyard Lawn,0,Peppy villager 
+recipes_27,Baked Potatoes,0,Any villager Restaurant 
+recipes_28,Bamboo Basket,50,Snooty villager 
+recipes_29,Bamboo Bench,50,Normal villager 
+recipes_30,Bamboo Candleholder,50,Snooty villager 
+recipes_31,Bamboo Doll,0,Balloons Message Bottle 
+recipes_32,Bamboo Drum,50,Jock villager 
+recipes_33,Bamboo Floor Lamp,50,Normal villager 
+recipes_34,Bamboo Flooring,50,Cranky villager 
+recipes_35,Bamboo Hat,100,Cranky villager 
+recipes_36,Bamboo Lattice Fence,0,Nook Miles Redemption 
+recipes_37,Bamboo Lunch Box,50,Snooty villager 
+recipes_38,Bamboo Noodle Slide,0,Balloons Isabelle 
+recipes_39,Bamboo Partition,50,Cranky villager 
+recipes_40,Bamboo Shelf,50,Snooty villager 
+recipes_41,Bamboo Speaker,50,Snooty villager 
+recipes_42,Bamboo Sphere,50,Normal villager 
+recipes_43,Bamboo Stool,50,Snooty villager 
+recipes_44,Bamboo Stopblock,50,Jock villager 
+recipes_45,Bamboo Wall,50,Cranky villager 
+recipes_46,Bamboo Wall Decoration,50,Jock villager 
+recipes_47,Bamboo Wand,0,Balloons Message Bottle 
+recipes_48,Bamboo-Grove Wall,0,Balloons Message Bottle 
+recipes_49,Bamboo-Shoot Lamp,0,Balloons Message Bottle 
+recipes_50,Bamboo-Shoot Soup,0,Daisy Mae 
+recipes_51,Bamboo-Slats Fence,0,Nook Miles Redemption 
+recipes_52,Barbed-Wire Fence,0,Nook Miles Redemption 
+recipes_53,Barbell,0,Jock villager 
+recipes_54,Barred-Knifejaw Carpaccio,0,Fishing 
+recipes_55,Barrel,0,Tom Nook Cranky villager 
+recipes_56,Basement Flooring,0,Smug villager 
+recipes_57,Basket Pack,0,Balloons Message Bottle 
+recipes_58,Beekeeper's Hive,0,Jock villager 
+recipes_59,Big Festive Tree,0,Balloons Any villager 
+recipes_60,Birdbath,0,Tom Nook Snooty villager 
+recipes_61,Birdcage,0,Big sister villager 
+recipes_62,Birdhouse,0,Tom Nook Peppy villager 
+recipes_63,Block Fence,0,Nook Miles Redemption 
+recipes_64,Blossom-Viewing Lantern,0,Balloons Message Bottle 
+recipes_65,Blue Rose Crown,200,Any villager 
+recipes_66,Blue Rose Wreath,200,Any villager 
+recipes_67,Bone Doorplate,50,Lazy villager 
+recipes_68,Bonfire,0,Tom Nook Cranky villager 
+recipes_69,Bonsai Shelf,100,Cranky villager 
+recipes_70,Boomerang,50,Lazy villager 
+recipes_71,Box-Shaped Seat,0,Peppy villager 
+recipes_72,Bread,0,Any villager Restaurant 
+recipes_73,Bread Gratin,0,Any villager Restaurant 
+recipes_74,Brick Fence,0,Nook Miles Redemption 
+recipes_75,Brick Oven,0,Wildest Dreams DIY 
+recipes_76,Brick Pillar,0,Niko 
+recipes_77,Brick Well,0,Nook Miles Redemption 
+recipes_78,Bridge Construction Kit,0,Tom Nook 
+recipes_79,Brown Herringbone Wall,0,Big sister villager 
+recipes_80,Brown Sugar,0,Basic Cooking Recipes 
+recipes_81,Brown-Sugar Cupcakes,0,Basic Cooking Recipes 
+recipes_82,Brown-Sugar Pound Cake,0,Any villager Restaurant 
+recipes_83,Bunny Day Arch,0,Zipper 
+recipes_84,Bunny Day Bag,0,Any villager 
+recipes_85,Bunny Day Bed,0,Egg Bottle Egg Balloon 
+recipes_86,Bunny Day Crown,0,Any villager 
+recipes_87,Bunny Day Fence,0,Egg Bottle Egg Balloon 
+recipes_88,Bunny Day Festive Balloons,0,Egg Bottle Egg Balloon 
+recipes_89,Bunny Day Flooring,0,Egg Bottle Egg Balloon 
+recipes_90,Bunny Day Glowy Garland,0,Egg Bottle Egg Balloon 
+recipes_91,Bunny Day Lamp,0,Egg Bottle Egg Balloon 
+recipes_92,Bunny Day Merry Balloons,0,Egg Bottle Egg Balloon 
+recipes_93,Bunny Day Rug,0,Egg Bottle Egg Balloon 
+recipes_94,Bunny Day Stool,0,Egg Bottle Egg Balloon 
+recipes_95,Bunny Day Table,0,Egg Bottle Egg Balloon 
+recipes_96,Bunny Day Vanity,0,Egg Bottle Egg Balloon 
+recipes_97,Bunny Day Wall,0,Egg Bottle Egg Balloon 
+recipes_98,Bunny Day Wall Clock,0,Egg Bottle Egg Balloon 
+recipes_99,Bunny Day Wand,0,Zipper 
+recipes_100,Bunny Day Wardrobe,0,Egg Bottle Egg Balloon 
+recipes_101,Bunny Day Wreath,0,Egg Bottle Egg Balloon 
+recipes_102,Butter Churn,0,Snooty villager 
+recipes_103,Cabin Wall,0,Peppy villager 
+recipes_104,Cake Salé,0,Any villager Restaurant 
+recipes_105,Campfire,0,Tom Nook 
+recipes_106,Campsite Construction Kit,0,Tom Nook 
+recipes_107,Cancer Table,0,Celeste Message Bottle 
+recipes_108,Capricorn Ornament,0,Celeste Message Bottle 
+recipes_109,Cardboard Bed,0,Lazy villager 
+recipes_110,Cardboard Chair,0,Lazy villager 
+recipes_111,Cardboard Sofa,0,Peppy villager 
+recipes_112,Cardboard Table,0,Peppy villager 
+recipes_113,Carp on a Cutting Board,0,Lazy villager 
+recipes_114,Carpaccio di Capesante,0,Any villager Restaurant 
+recipes_115,Carpaccio di Marlin Blu,0,Fishing 
+recipes_116,Carpaccio di Salmone,0,Fishing 
+recipes_117,Carrot Bagel Sandwich,0,Any villager Restaurant 
+recipes_118,Carrot Cake,0,Basic Cooking Recipes 
+recipes_119,Carrot Juice,0,Any villager Restaurant 
+recipes_120,Carrot Potage,0,Be a Chef! DIY Recipes+ 
+recipes_121,Carrot Scones,0,Any villager Restaurant 
+recipes_122,Carrot-Tops Curry,0,Any villager Restaurant 
+recipes_123,Cave,0,Message Bottle 
+recipes_124,Champiñones al Ajillo,0,Any villager Restaurant 
+recipes_125,Cherry Dress,100,Peppy villager 
+recipes_126,Cherry Hat,100,Peppy villager 
+recipes_127,Cherry Jam,0,Any villager Restaurant 
+recipes_128,Cherry Jelly,0,Any villager Restaurant 
+recipes_129,Cherry Lamp,100,Tom Nook Peppy villager 
+recipes_130,Cherry Pie,0,Any villager Restaurant 
+recipes_131,Cherry Rug,100,Peppy villager 
+recipes_132,Cherry Smoothie,0,Any villager Be a Chef! DIY Recipes+ 
+recipes_133,Cherry Speakers,100,Tom Nook Peppy villager 
+recipes_134,Cherry Tart,0,Any villager Restaurant 
+recipes_135,Cherry Umbrella,100,Peppy villager 
+recipes_136,Cherry Wall,100,Peppy villager 
+recipes_137,Cherry-Blossom Bonsai,0,Balloons Message Bottle 
+recipes_138,Cherry-Blossom Branches,0,Balloons Message Bottle 
+recipes_139,Cherry-Blossom Clock,0,Balloons Message Bottle 
+recipes_140,Cherry-Blossom Flooring,0,Balloons Message Bottle 
+recipes_141,Cherry-Blossom Pochette,0,Balloons Message Bottle 
+recipes_142,Cherry-Blossom Pond Stone,0,Balloons Message Bottle 
+recipes_143,Cherry-Blossom Rug,0,Balloons 
+recipes_144,Cherry-Blossom Umbrella,0,Balloons Message Bottle 
+recipes_145,Cherry-Blossom Wand,0,Balloons Message Bottle 
+recipes_146,Cherry-Blossom-Petal Pile,0,Balloons Message Bottle 
+recipes_147,Cherry-Blossom-Trees Wall,0,Balloons Message Bottle 
+recipes_148,Chic Cosmos Wreath,200,Any villager 
+recipes_149,Chic Mum Crown,100,Any villager 
+recipes_150,Chic Rose Crown,100,Any villager 
+recipes_151,Chic Tulip Crown,100,Any villager 
+recipes_152,Chic Windflower Wreath,200,Any villager 
+recipes_153,Chocolate Herringbone Wall,0,Smug villager 
+recipes_154,Clackercart,0,Lazy villager 
+recipes_155,Clam Chowder,0,Turkey Day Recipes 
+recipes_156,Classic Pitcher,0,Tom Nook Snooty villager 
+recipes_157,Classic-Library Wall,100,Normal villager 
+recipes_158,Clothesline,0,Tom Nook Cranky villager 
+recipes_159,Coconut Cookies,0,Any villager Restaurant 
+recipes_160,Coconut Juice,0,Snooty villager 
+recipes_161,Coconut Milk,0,Any villager Restaurant 
+recipes_162,Coconut Oil,0,Any villager Restaurant 
+recipes_163,Coconut Pancakes,0,Any villager Restaurant 
+recipes_164,Coconut Pudding,0,Any villager Restaurant 
+recipes_165,Coconut Wall Planter,50,Snooty villager 
+recipes_166,Colored-Leaves Flooring,0,Balloons Message Bottle 
+recipes_167,Concrete Pillar,0,Niko 
+recipes_168,Cookies,0,Any villager Restaurant 
+recipes_169,Cool Hyacinth Crown,100,Any villager 
+recipes_170,Cool Hyacinth Wreath,100,Any villager 
+recipes_171,Cool Pansy Crown,100,Any villager 
+recipes_172,Cool Pansy Wreath,200,Any villager 
+recipes_173,Cool Windflower Crown,100,Any villager 
+recipes_174,Cool Windflower Wreath,100,Any villager 
+recipes_175,Corral Fence,0,Nook Miles Redemption 
+recipes_176,Corrugated Iron Fence,0,Nook Miles Redemption 
+recipes_177,Cosmos Crown,0,Any villager 
+recipes_178,Cosmos Shower,50,Snooty villager 
+recipes_179,Cosmos Wand,0,Celeste Message Bottle 
+recipes_180,Cosmos Wreath,50,Any villager Tom Nook 
+recipes_181,Country Fence,0,Nook Miles Redemption 
+recipes_182,Crescent-Moon Chair,0,Celeste Message Bottle 
+recipes_183,Crest Doorplate,50,Smug villager 
+recipes_184,Crewed Spaceship,0,Celeste Message Bottle 
+recipes_185,Cute Lily Crown,100,Any villager 
+recipes_186,Cute Rose Crown,100,Any villager 
+recipes_187,Cutting Board,0,Normal villager 
+recipes_188,Dark Bamboo Bath Mat,50,Cranky villager 
+recipes_189,Dark Bamboo Rug,50,Cranky villager 
+recipes_190,Dark Cosmos Crown,200,Any villager 
+recipes_191,Dark Lily Crown,200,Any villager 
+recipes_192,Dark Lily Wreath,200,Any villager 
+recipes_193,Dark Rose Wreath,200,Any villager 
+recipes_194,Dark Tulip Crown,200,Any villager 
+recipes_195,Dark Tulip Wreath,200,Any villager 
+recipes_196,Dark Wooden-Mosaic Wall,0,Big sister villager 
+recipes_197,Decayed Tree,0,Smug villager 
+recipes_198,Decoy Duck,0,Smug villager 
+recipes_199,Deer Decoration,50,Lazy villager 
+recipes_200,Deer Scare,50,Cranky villager 
+recipes_201,Destinations Signpost,0,Nook Miles Redemption 
+recipes_202,Dharma,50,Cranky villager 
+recipes_203,DIY Workbench,100,Big sister villager 
+recipes_204,Document Stack,100,Smug villager 
+recipes_205,Doghouse,0,Jock villager 
+recipes_206,Donation Box,0,Nook Miles Redemption 
+recipes_207,Drinking Fountain,0,Nook Miles Redemption 
+recipes_208,Earth-Egg Outfit,0,Bunny Day 
+recipes_209,Earth-Egg Shell,0,Bunny Day 
+recipes_210,Earth-Egg Shoes,0,Bunny Day 
+recipes_211,Egg Party Dress,0,Bunny Day 
+recipes_212,Egg Party Hat,0,Bunny Day 
+recipes_213,Falling-Snow Wall,0,Balloons Message Bottle 
+recipes_214,Fancy Lily Wreath,100,Any villager 
+recipes_215,Fancy Mum Wreath,100,Any villager 
+recipes_216,Fancy Rose Wreath,100,Any villager 
+recipes_217,Festival-Lantern Set,0,Peppy villager 
+recipes_218,Festive Rug,0,Balloons Any villager 
+recipes_219,Festive Top Set,0,Balloons Any villager 
+recipes_220,Festive Tree,0,Balloons Any villager 
+recipes_221,Festive Wrapping Paper,0,Jingle 
+recipes_222,Firewood,0,Jock villager 
+recipes_223,Fish Bait,0,Underground 
+recipes_224,Fish-and-Chips,0,Any villager Restaurant 
+recipes_225,Fishing Rod,0,Pretty Good Tools Recipes 
+recipes_226,Flat Garden Rock,0,Snooty villager 
+recipes_227,Flimsy Axe,0,Tom Nook Nook's Cranny 
+recipes_228,Flimsy Fishing Rod,0,Tom Nook 
+recipes_229,Flimsy Net,0,Tom Nook 
+recipes_230,Flimsy Shovel,0,Blathers Nook's Cranny 
+recipes_231,Flimsy Watering Can,0,Tom Nook Nook's Cranny 
+recipes_232,Floral Swag,50,Normal villager 
+recipes_233,Flour,0,Be a Chef! DIY Recipes+ 
+recipes_234,Flower Stand,100,Big sister villager 
+recipes_235,Flying Saucer,0,Celeste Message Bottle 
+recipes_236,Forbidden Altar,50,Lazy villager 
+recipes_237,Forest Flooring,0,Balloons Message Bottle 
+recipes_238,Forest Wall,0,Balloons Message Bottle 
+recipes_239,Fossil Doorplate,50,Jock villager 
+recipes_240,Fountain,0,Nook Miles Redemption 
+recipes_241,Foxtail,0,Any villager 
+recipes_242,French Fries,0,Any villager Restaurant 
+recipes_243,Frosted Cookies,0,Any villager Restaurant 
+recipes_244,Frosted Pretzels,0,Any villager Restaurant 
+recipes_245,Frozen Arch,0,Snowboy 
+recipes_246,Frozen Bed,0,Snowboy 
+recipes_247,Frozen Chair,0,Snowboy 
+recipes_248,Frozen Counter,0,Snowboy 
+recipes_249,Frozen Fence,0,Balloons Message Bottle 
+recipes_250,Frozen Floor Tiles,0,Balloons Message Bottle 
+recipes_251,Frozen Mini Snowperson,0,Snowboy 
+recipes_252,Frozen Partition,0,Snowboy 
+recipes_253,Frozen Pillar,0,Snowboy 
+recipes_254,Frozen Sculpture,0,Snowboy 
+recipes_255,Frozen Table,0,Snowboy 
+recipes_256,Frozen Tree,0,Snowboy 
+recipes_257,Frozen-Treat Set,0,Snowboy 
+recipes_258,Fruit Basket,100,Cranky villager 
+recipes_259,Fruit Cupcakes,0,Any villager Restaurant 
+recipes_260,Fruit Pizza,0,Any villager Restaurant 
+recipes_261,Fruit Salad,0,Any villager Restaurant 
+recipes_262,Fruit Scones,0,Any villager Restaurant 
+recipes_263,Fruit Wreath,100,Cranky villager 
+recipes_264,Fruit-Topped Pancakes,0,Any villager Restaurant 
+recipes_265,Frying Pan,0,DIY for Beginners 
+recipes_266,Full-Body Glowing-Moss Suit,0,Message Bottle 
+recipes_267,Galaxy Flooring,0,Celeste Message Bottle 
+recipes_268,Garbage-Heap Flooring,0,Fishing 
+recipes_269,Garbage-Heap Wall,0,Fishing 
+recipes_270,Garden Bench,0,Snooty villager 
+recipes_271,Garden Rock,0,Lazy villager 
+recipes_272,Garden Wagon,0,Peppy villager 
+recipes_273,Gear Apparatus,0,Big sister villager 
+recipes_274,Gear Tower,0,Big sister villager 
+recipes_275,Gemini Closet,0,Celeste Message Bottle 
+recipes_276,Giant Ornament,0,Balloons Any villager 
+recipes_277,Giant Teddy Bear,100,Peppy villager 
+recipes_278,Giant Vine,0,Message Bottle 
+recipes_279,Gift Pile,0,Jingle 
+recipes_280,Glow-in-the-Dark Stickers,0,Message Bottle 
+recipes_281,Glowing-Moss Balloon,0,Message Bottle 
+recipes_282,Glowing-Moss Boulder,0,Message Bottle 
+recipes_283,Glowing-Moss Cave Wall,0,Message Bottle 
+recipes_284,Glowing-Moss Dress,0,Message Bottle 
+recipes_285,Glowing-Moss Flooring,0,Message Bottle 
+recipes_286,Glowing-Moss Forest Wall,0,Message Bottle 
+recipes_287,Glowing-Moss Headband,0,Message Bottle 
+recipes_288,Glowing-Moss Hood,0,Message Bottle 
+recipes_289,Glowing-Moss Jar,0,Message Bottle 
+recipes_290,Glowing-Moss Pointed Cap,0,Message Bottle 
+recipes_291,Glowing-Moss Pond,0,Message Bottle 
+recipes_292,Glowing-Moss Rug,0,Message Bottle 
+recipes_293,Glowing-Moss Ruins Wall,0,Message Bottle 
+recipes_294,Glowing-Moss Statue,0,Message Bottle 
+recipes_295,Glowing-Moss Stool,0,Message Bottle 
+recipes_296,Glowing-Moss Wreath,0,Message Bottle 
+recipes_297,Glowing-Moss-Jar Shelves,0,Message Bottle 
+recipes_298,Gnocchi di Carote,0,Any villager Restaurant 
+recipes_299,Gnocchi di Patate,0,Basic Cooking Recipes 
+recipes_300,Gnocchi di Zucca,0,Any villager Restaurant 
+recipes_301,Gold Armor,100,Smug villager 
+recipes_302,Gold Bars,100,Snooty villager 
+recipes_303,Gold Helmet,200,Smug villager 
+recipes_304,Gold Rose Crown,200,Any villager 
+recipes_305,Gold Rose Wreath,200,Any villager 
+recipes_306,Gold-Armor Shoes,200,Smug villager 
+recipes_307,Gold-Nugget Mining Car,100,Jock villager 
+recipes_308,Gold-Screen Wall,100,Smug villager 
+recipes_309,Golden Altar,200,Lazy villager 
+recipes_310,Golden Arowana Model,100,Lazy villager 
+recipes_311,Golden Axe,0,Axe 
+recipes_312,Golden Bathtub,100,Peppy villager 
+recipes_313,Golden Candlestick,0,Smug villager 
+recipes_314,Golden Casket,200,Smug villager 
+recipes_315,Golden Decorative Plate,100,Cranky villager 
+recipes_316,Golden Dharma,100,Cranky villager 
+recipes_317,Golden Dishes,0,Snooty villager 
+recipes_318,Golden Dung Beetle,100,Lazy villager 
+recipes_319,Golden Flooring,100,Smug villager 
+recipes_320,Golden Garden Bunny,100,Normal villager 
+recipes_321,Golden Gear Apparatus,100,Big sister villager 
+recipes_322,Golden Gear Tower,100,Big sister villager 
+recipes_323,Golden Gears,50,Smug villager 
+recipes_324,Golden Ladder Set-Up Kit,0,Any villager 
+recipes_325,Golden Meter and Pipes,100,Big sister villager 
+recipes_326,Golden Net,0,Catching 
+recipes_327,Golden Piggy Bank,100,Normal villager 
+recipes_328,Golden Pillar,0,Niko 
+recipes_329,Golden Plate Armor,100,Smug villager 
+recipes_330,Golden Rod,0,Fishing 
+recipes_331,Golden Samurai Suit,100,Jock villager 
+recipes_332,Golden Seat,200,Snooty villager 
+recipes_333,Golden Shovel,0,Gulliver 
+recipes_334,Golden Slingshot,0,Balloons 
+recipes_335,Golden Toilet,200,Snooty villager 
+recipes_336,Golden Urn,100,Peppy villager 
+recipes_337,Golden Vase,100,Normal villager 
+recipes_338,Golden Wall,100,Smug villager 
+recipes_339,Golden Wand,0,Celeste Message Bottle 
+recipes_340,Golden Watering Can,0,Isabelle 
+recipes_341,Golden Wristwatch,100,Smug villager 
+recipes_342,Gong,0,Cranky villager 
+recipes_343,Grass Skirt,0,Normal villager 
+recipes_344,Grass Standee,0,Normal villager 
+recipes_345,Gratin,0,Turkey Day Recipes 
+recipes_346,Green Bamboo Fence,0,Nook Miles Redemption 
+recipes_347,Green Bamboo Mat,50,Cranky villager 
+recipes_348,Green Grass Skirt,0,Peppy villager 
+recipes_349,Green-Leaf Pile,0,Balloons Message Bottle 
+recipes_350,Grilled Sea Bass with Herbs,0,Be a Chef! DIY Recipes+ 
+recipes_351,Hanging Glowing Moss,0,Message Bottle 
+recipes_352,Hanging Terrarium,50,Peppy villager 
+recipes_353,Hay Bed,0,DIY for Beginners 
+recipes_354,Hearth,0,Wildest Dreams DIY 
+recipes_355,Hedge,0,Leif Tom Nook 
+recipes_356,Hedge Standee,0,Normal villager 
+recipes_357,Holiday Candle,0,Balloons Any villager 
+recipes_358,Honeycomb Flooring,0,Jock villager 
+recipes_359,Honeycomb Wall,0,Jock villager 
+recipes_360,Hyacinth Crown,0,Any villager 
+recipes_361,Hyacinth Lamp,50,Big sister villager 
+recipes_362,Hyacinth Wand,0,Celeste Message Bottle 
+recipes_363,Hyacinth Wreath,50,Any villager Tom Nook 
+recipes_364,Ice Flooring,0,Snowboy 
+recipes_365,Ice Wall,0,Snowboy 
+recipes_366,Ice Wand,0,Snowboy 
+recipes_367,Iceberg Flooring,0,Balloons Message Bottle 
+recipes_368,Iceberg Wall,0,Balloons Message Bottle 
+recipes_369,Illuminated Present,0,Balloons Any villager 
+recipes_370,Illuminated Reindeer,0,Balloons Any villager 
+recipes_371,Illuminated Snowflakes,0,Balloons Any villager 
+recipes_372,Illuminated Tree,0,Balloons Any villager 
+recipes_373,Imperial Fence,0,Nook Miles Redemption 
+recipes_374,Imperial Pot,0,Snooty villager 
+recipes_375,Infused-Water Dispenser,100,Cranky villager 
+recipes_376,Iron Armor,100,Cranky villager 
+recipes_377,Iron Closet,0,Big sister villager 
+recipes_378,Iron Doorplate,50,Big sister villager 
+recipes_379,Iron Fence,0,Nook Miles Redemption 
+recipes_380,Iron Frame,0,Jock villager 
+recipes_381,Iron Garden Bench,0,Big sister villager 
+recipes_382,Iron Garden Chair,0,Tom Nook Big sister villager 
+recipes_383,Iron Garden Table,0,Tom Nook Big sister villager 
+recipes_384,Iron Hanger Stand,0,Cranky villager 
+recipes_385,Iron Ladder Set-Up Kit,0,Any villager 
+recipes_386,Iron Shelf,0,Big sister villager 
+recipes_387,Iron Wall Lamp,0,Wildest Dreams DIY 
+recipes_388,Iron Wall Rack,50,Smug villager 
+recipes_389,Iron Wand,0,Celeste Message Bottle 
+recipes_390,Iron Worktable,0,Big sister villager 
+recipes_391,Iron-and-Stone Fence,0,Nook Miles Redemption 
+recipes_392,Ironwood Bed,0,Smug villager 
+recipes_393,Ironwood Cart,0,Smug villager 
+recipes_394,Ironwood Chair,0,Smug villager 
+recipes_395,Ironwood Clock,50,Smug villager 
+recipes_396,Ironwood Cupboard,100,Snooty villager 
+recipes_397,Ironwood DIY Workbench,100,Cranky villager 
+recipes_398,Ironwood Dresser,0,Snooty villager 
+recipes_399,Ironwood Kitchenette,0,Wildest Dreams DIY 
+recipes_400,Ironwood Low Table,0,Snooty villager 
+recipes_401,Ironwood Table,0,Cranky villager 
+recipes_402,Jail Bars,0,Cranky villager 
+recipes_403,Jarred Bamboo Shoots,0,Daisy Mae 
+recipes_404,Jarred Mushrooms,0,Any villager Restaurant 
+recipes_405,Jingle Wall,0,Balloons Any villager 
+recipes_406,Juicy-Apple TV,100,Tom Nook Big sister villager 
+recipes_407,Jungle Flooring,0,Jock villager 
+recipes_408,Jungle Wall,0,Jock villager 
+recipes_409,Kabu Ankake,0,Daisy Mae 
+recipes_410,Karei no Nitsuke,0,Fishing 
+recipes_411,Kettle Bathtub,0,Cranky villager 
+recipes_412,Kettlebell,0,Jock villager 
+recipes_413,Key Holder,50,Big sister villager 
+recipes_414,King Tut Mask,0,Rocks 
+recipes_415,Knight's Helmet,100,Cranky villager 
+recipes_416,Knitted-Grass Backpack,0,Normal villager 
+recipes_417,Ladder,0,Tom Nook Nook's Cranny 
+recipes_418,Large Cardboard Boxes,0,Lazy villager 
+recipes_419,Large Lattice Fence,0,Custom Fencing in a Flash 
+recipes_420,Lattice Fence,0,Nook Miles Redemption 
+recipes_421,Leaf,0,Jock villager 
+recipes_422,Leaf Campfire,0,Balloons 
+recipes_423,Leaf Mask,0,Peppy villager 
+recipes_424,Leaf Stool,0,Balloons Message Bottle 
+recipes_425,Leaf Umbrella,0,Big sister villager 
+recipes_426,Leaf-Egg Outfit,0,Bunny Day 
+recipes_427,Leaf-Egg Shell,0,Bunny Day 
+recipes_428,Leaf-Egg Shoes,0,Bunny Day 
+recipes_429,Leo Sculpture,0,Celeste Message Bottle 
+recipes_430,Libra Scale,0,Celeste Message Bottle 
+recipes_431,Light Bamboo Bath Mat,0,Balloons 
+recipes_432,Light Bamboo Rug,0,Balloons Message Bottle 
+recipes_433,Lily Crown,0,Any villager 
+recipes_434,Lily Record Player,50,Cranky villager 
+recipes_435,Lily Wand,0,Celeste Message Bottle 
+recipes_436,Lily Wreath,50,Any villager Tom Nook 
+recipes_437,Log Bed,0,Peppy villager 
+recipes_438,Log Bench,0,Tom Nook Normal villager 
+recipes_439,Log Chair,0,Normal villager 
+recipes_440,Log Decorative Shelves,100,Normal villager 
+recipes_441,Log Dining Table,0,Tom Nook Cranky villager 
+recipes_442,Log Extra-Long Sofa,100,Normal villager 
+recipes_443,Log Fence,0,Nook Miles Redemption 
+recipes_444,Log Garden Lounge,0,Tom Nook Peppy villager 
+recipes_445,Log Pack,0,Jock villager 
+recipes_446,Log Round Table,0,Peppy villager 
+recipes_447,Log Stakes,0,Tom Nook Smug villager 
+recipes_448,Log Stool,0,Tom Nook Peppy villager 
+recipes_449,Log Wall-Mounted Clock,50,Lazy villager 
+recipes_450,Log-Wall Fence,0,Nook Miles Redemption 
+recipes_451,Lovely Cosmos Crown,100,Any villager 
+recipes_452,Low Brick Island Counter,0,Niko 
+recipes_453,Low Concrete Island Counter,0,Niko 
+recipes_454,Low Golden Island Counter,0,Niko 
+recipes_455,Low Marble Island Counter,0,Niko 
+recipes_456,Low Simple Island Counter,0,Niko 
+recipes_457,Low Steel Island Counter,0,Niko 
+recipes_458,Low Wooden Island Counter,0,Niko 
+recipes_459,Lucky Gold Cat,100,Snooty villager 
+recipes_460,Lunar Lander,0,Celeste Message Bottle 
+recipes_461,Lunar Rover,0,Celeste Message Bottle 
+recipes_462,Lunar Surface,0,Celeste Message Bottle 
+recipes_463,Magazine Rack,100,Peppy villager 
+recipes_464,Manga-Library Wall,100,Peppy villager 
+recipes_465,Manhole Cover,0,Nook Miles Redemption 
+recipes_466,Maple-Leaf Pochette,0,Balloons Message Bottle 
+recipes_467,Maple-Leaf Pond Stone,0,Balloons Message Bottle 
+recipes_468,Maple-Leaf Rug,0,Balloons Message Bottle 
+recipes_469,Maple-Leaf Umbrella,0,Balloons Message Bottle 
+recipes_470,Marble Pillar,0,Niko 
+recipes_471,Matryoshka,0,Lazy villager 
+recipes_472,Medicine,0,Any villager 
+recipes_473,Medium Cardboard Boxes,0,Lazy villager 
+recipes_474,Medium Wooden Partition,0,Snooty villager 
+recipes_475,Mermaid Bed,0,Pascal 
+recipes_476,Mermaid Chair,0,Pascal 
+recipes_477,Mermaid Closet,0,Pascal 
+recipes_478,Mermaid Dresser,0,Pascal 
+recipes_479,Mermaid Fence,0,Pascal 
+recipes_480,Mermaid Flooring,0,Pascal 
+recipes_481,Mermaid Lamp,0,Pascal 
+recipes_482,Mermaid Rug,0,Pascal 
+recipes_483,Mermaid Screen,0,Pascal 
+recipes_484,Mermaid Shelf,0,Pascal 
+recipes_485,Mermaid Sofa,0,Pascal 
+recipes_486,Mermaid Table,0,Pascal 
+recipes_487,Mermaid Vanity,0,Pascal 
+recipes_488,Mermaid Wall,0,Pascal 
+recipes_489,Mermaid Wall Clock,0,Pascal 
+recipes_490,Minestrone Soup,0,Any villager Restaurant 
+recipes_491,Mini DIY Workbench,0,Test Your DIY Skills 
+recipes_492,Mini Golden Dharma,100,Cranky villager 
+recipes_493,Mixed-Fruits Bagel Sandwich,0,Any villager Restaurant 
+recipes_494,Mixed-Fruits Crepe,0,Any villager Restaurant 
+recipes_495,Mixed-Fruits Pie,0,Any villager Restaurant 
+recipes_496,Mixed-Fruits Sandwich,0,Any villager Restaurant 
+recipes_497,Mixed-Fruits Tart,0,Any villager Restaurant 
+recipes_498,Modeling Clay,0,Cranky villager 
+recipes_499,Modern Wood Wall,0,Snooty villager 
+recipes_500,Money Flooring,100,Snooty villager 
+recipes_501,Moon,0,Celeste Message Bottle 
+recipes_502,Mossy Garden Rock,0,Lazy villager 
+recipes_503,Mountain Standee,0,Jock villager 
+recipes_504,Mum Crown,0,Any villager 
+recipes_505,Mum Cushion,50,Peppy villager 
+recipes_506,Mum Wreath,50,Any villager Tom Nook 
+recipes_507,Mums Wand,0,Celeste Message Bottle 
+recipes_508,Mush Lamp,0,Balloons Message Bottle 
+recipes_509,Mush Log,0,Balloons Message Bottle 
+recipes_510,Mush Low Stool,0,Balloons Message Bottle 
+recipes_511,Mush Parasol,0,Balloons Message Bottle 
+recipes_512,Mush Partition,0,Balloons Message Bottle 
+recipes_513,Mush Table,0,Balloons Message Bottle 
+recipes_514,Mush Umbrella,0,Balloons Message Bottle 
+recipes_515,Mush Wall,0,Balloons Message Bottle 
+recipes_516,Mushroom Crepe,0,Any villager Restaurant 
+recipes_517,Mushroom Curry,0,Any villager Restaurant 
+recipes_518,Mushroom Pizza,0,Any villager Restaurant 
+recipes_519,Mushroom Potage,0,Any villager Restaurant 
+recipes_520,Mushroom Salad,0,Any villager Restaurant 
+recipes_521,Mushroom Wand,0,Balloons Message Bottle 
+recipes_522,Mushroom Wreath,0,Balloons Isabelle 
+recipes_523,Music Stand,0,Lazy villager 
+recipes_524,Natural Garden Chair,0,Tom Nook Peppy villager 
+recipes_525,Natural Garden Table,0,Tom Nook Normal villager 
+recipes_526,Natural Mum Wreath,200,Any villager 
+recipes_527,Natural Square Table,0,Normal villager 
+recipes_528,Net,0,Pretty Good Tools Recipes 
+recipes_529,Nice Branch,0,Normal villager 
+recipes_530,Nova Light,0,Celeste Message Bottle 
+recipes_531,Ocarina,0,DIY for Beginners 
+recipes_532,Oil-Barrel Bathtub,100,Jock villager 
+recipes_533,Old-Fashioned Washtub,0,DIY for Beginners 
+recipes_534,Olive-Flounder Meunière,0,Turkey Day Recipes 
+recipes_535,Open Wooden Shelves,0,Smug villager 
+recipes_536,Orange Dress,100,Lazy villager 
+recipes_537,Orange End Table,100,Tom Nook Lazy villager 
+recipes_538,Orange Hat,100,Lazy villager 
+recipes_539,Orange Jelly,0,Any villager Restaurant 
+recipes_540,Orange Marmalade,0,Any villager Restaurant 
+recipes_541,Orange Pie,0,Any villager Restaurant 
+recipes_542,Orange Pound Cake,0,Any villager Restaurant 
+recipes_543,Orange Rug,100,Lazy villager 
+recipes_544,Orange Smoothie,0,Any villager Be a Chef! DIY Recipes+ 
+recipes_545,Orange Tart,0,Any villager Restaurant 
+recipes_546,Orange Umbrella,100,Lazy villager 
+recipes_547,Orange Wall,100,Lazy villager 
+recipes_548,Orange Wall-Mounted Clock,100,Tom Nook Lazy villager 
+recipes_549,Organic Bread,0,Basic Cooking Recipes 
+recipes_550,Ornament Crown,0,Balloons Any villager 
+recipes_551,Ornament Garland,0,Balloons Any villager 
+recipes_552,Ornament Mobile,0,Balloons Any villager 
+recipes_553,Ornament Table Lamp,0,Balloons Any villager 
+recipes_554,Ornament Tree,0,Balloons Any villager 
+recipes_555,Ornament Wreath,0,Balloons Any villager 
+recipes_556,Outdoor Bath,0,Nook Miles Redemption 
+recipes_557,Outdoor Picnic Set,0,Balloons Isabelle 
+recipes_558,Palm-Tree Lamp,0,Snooty villager 
+recipes_559,Pan Flute,0,Balloons Message Bottle 
+recipes_560,Pancakes,0,Be a Chef! DIY Recipes+ 
+recipes_561,Pansy Crown,0,Any villager 
+recipes_562,Pansy Table,50,Normal villager 
+recipes_563,Pansy Wand,0,Celeste Message Bottle 
+recipes_564,Pansy Wreath,50,Any villager Tom Nook 
+recipes_565,Park Fence,0,Custom Fencing in a Flash 
+recipes_566,Partition Wall,0,Niko 
+recipes_567,Paw-Print Doorplate,50,Peppy villager 
+recipes_568,Peach Chair,100,Tom Nook Normal villager 
+recipes_569,Peach Dress,0,Normal villager 
+recipes_570,Peach Hat,100,Normal villager 
+recipes_571,Peach Jam,0,Any villager Restaurant 
+recipes_572,Peach Jelly,0,Any villager Restaurant 
+recipes_573,Peach Pie,0,Any villager Restaurant 
+recipes_574,Peach Rug,100,Normal villager 
+recipes_575,Peach Smoothie,0,Any villager Be a Chef! DIY Recipes+ 
+recipes_576,Peach Surprise Box,100,Tom Nook Normal villager 
+recipes_577,Peach Tart,0,Any villager Restaurant 
+recipes_578,Peach Umbrella,100,Normal villager 
+recipes_579,Peach Wall,100,Normal villager 
+recipes_580,Pear Bed,100,Tom Nook Jock villager 
+recipes_581,Pear Dress,0,Jock villager 
+recipes_582,Pear Hat,100,Jock villager 
+recipes_583,Pear Jam,0,Any villager Restaurant 
+recipes_584,Pear Jelly,0,Any villager Restaurant 
+recipes_585,Pear Pie,0,Any villager Restaurant 
+recipes_586,Pear Rug,100,Jock villager 
+recipes_587,Pear Smoothie,0,Any villager Be a Chef! DIY Recipes+ 
+recipes_588,Pear Tart,0,Any villager Restaurant 
+recipes_589,Pear Umbrella,100,Jock villager 
+recipes_590,Pear Wall,100,Jock villager 
+recipes_591,Pear Wardrobe,100,Tom Nook Jock villager 
+recipes_592,Pesce All'acqua Pazza,0,Fishing 
+recipes_593,Pickled Veggies,0,Any villager Restaurant 
+recipes_594,Pile of Cardboard Boxes,0,Lazy villager 
+recipes_595,Pile of Cash,0,Snooty villager 
+recipes_596,Pile of Leaves,0,Balloons 
+recipes_597,Pile of Zen Cushions,100,Cranky villager 
+recipes_598,Pine Bonsai Tree,0,Balloons 
+recipes_599,Pisces Lamp,0,Celeste Message Bottle 
+recipes_600,Pitfall Seed,0,Nook's Cranny Underground 
+recipes_601,Pizza Margherita,0,Any villager Restaurant 
+recipes_602,Plain Cupcakes,0,Any villager Restaurant 
+recipes_603,Plain Scones,0,Any villager Restaurant 
+recipes_604,Plain Sink,0,Wildest Dreams DIY 
+recipes_605,Plain Wooden Shop Sign,0,Jock villager 
+recipes_606,Plate Armor,0,Smug villager 
+recipes_607,Poke,0,Fishing 
+recipes_608,Pond Stone,0,Snooty villager 
+recipes_609,Pot,0,Tom Nook Cranky villager 
+recipes_610,Potato Curry,0,Any villager Restaurant 
+recipes_611,Potato Galette,0,Any villager Restaurant 
+recipes_612,Potato Potage,0,Any villager Restaurant 
+recipes_613,Potted Ivy,0,Test Your DIY Skills 
+recipes_614,Pound Cake,0,Any villager Restaurant 
+recipes_615,Pretty Cosmos Wreath,100,Any villager 
+recipes_616,Pretty Tulip Wreath,100,Any villager 
+recipes_617,Pretzels,0,Any villager Restaurant 
+recipes_618,Project Table,0,Snooty villager 
+recipes_619,Pull-Apart Bread,0,Any villager Restaurant 
+recipes_620,Pumpkin Bagel Sandwich,0,Be a Chef! DIY Recipes+ 
+recipes_621,Pumpkin Cupcakes,0,Any villager Restaurant 
+recipes_622,Pumpkin Curry,0,Any villager Restaurant 
+recipes_623,Pumpkin Pie,0,Turkey Day Recipes 
+recipes_624,Pumpkin Pound Cake,0,Any villager Restaurant 
+recipes_625,Pumpkin Scones,0,Any villager Restaurant 
+recipes_626,Pumpkin Soup,0,Any villager Restaurant 
+recipes_627,Purple Hyacinth Crown,200,Any villager 
+recipes_628,Purple Hyacinth Wreath,200,Any villager 
+recipes_629,Purple Pansy Crown,200,Any villager 
+recipes_630,Purple Windflower Crown,200,Any villager 
+recipes_631,Raccoon Figurine,0,Cranky villager 
+recipes_632,Rainbow Feather,0,Pavé 
+recipes_633,Recycled Boots,0,Fishing 
+recipes_634,Recycled-Can Thumb Piano,0,Fishing 
+recipes_635,Red-Leaf Pile,0,Balloons Isabelle 
+recipes_636,Ringtoss,0,Test Your DIY Skills 
+recipes_637,Robot Hero,0,Nook Miles Redemption 
+recipes_638,Rocket,0,Celeste Message Bottle 
+recipes_639,Rocking Chair,0,Test Your DIY Skills 
+recipes_640,Rocking Horse,0,Normal villager 
+recipes_641,Roost Sablé Cookie,0,Brewster 
+recipes_642,Rope Fence,0,Nook Miles Redemption 
+recipes_643,Rope-Net Flooring,0,Message Bottle 
+recipes_644,Rope-Net Wall,0,Message Bottle 
+recipes_645,Rose Bed,50,Smug villager 
+recipes_646,Rose Crown,0,Any villager 
+recipes_647,Rose Wand,0,Celeste Message Bottle 
+recipes_648,Rose Wreath,50,Any villager Tom Nook 
+recipes_649,Round Glowing-Moss Rug,0,Message Bottle 
+recipes_650,Round Vine Rug,0,Message Bottle 
+recipes_651,Ruined Arch,0,Message Bottle 
+recipes_652,Ruined Broken Pillar,0,Message Bottle 
+recipes_653,Ruined Decorated Pillar,0,Message Bottle 
+recipes_654,Ruined Seat,0,Message Bottle 
+recipes_655,Rustic-Stone Wall,0,Snooty villager 
+recipes_656,Sagittarius Arrow,0,Celeste Message Bottle 
+recipes_657,Sakura-Wood Flooring,0,Balloons Message Bottle 
+recipes_658,Sakura-Wood Wall,0,Balloons Message Bottle 
+recipes_659,Salad,0,Any villager Restaurant 
+recipes_660,Salad-Stuffed Tomato,0,Any villager Restaurant 
+recipes_661,Salade de Carottes Râpées,0,Any villager Restaurant 
+recipes_662,Salmon Bagel Sandwich,0,Fishing 
+recipes_663,Salmon Sandwich,0,Fishing 
+recipes_664,Sandy-Beach Flooring,0,Jock villager 
+recipes_665,Sardines in Oil,0,Fishing 
+recipes_666,Satellite,0,Celeste Message Bottle 
+recipes_667,Sauna Heater,0,Lazy villager 
+recipes_668,Sautéed Olive Flounder,0,Fishing 
+recipes_669,Savory Bread,0,Any villager Restaurant 
+recipes_670,Scarecrow,0,Cranky villager 
+recipes_671,Scattered Papers,100,Smug villager 
+recipes_672,Sci-Fi Flooring,0,Celeste Message Bottle 
+recipes_673,Sci-Fi Wall,0,Celeste Message Bottle 
+recipes_674,Scorpio Lamp,0,Celeste Message Bottle 
+recipes_675,Sea-Bass Pie,0,Fishing 
+recipes_676,Seafood Ajillo,0,Any villager Restaurant 
+recipes_677,Seafood Pizza,0,Any villager Restaurant 
+recipes_678,Seafood Salad,0,Any villager Restaurant 
+recipes_679,Seaweed Soup,0,Basic Cooking Recipes 
+recipes_680,Senmaizuke Barrel,0,Cranky villager 
+recipes_681,Shamrock Wand,0,Balloons 
+recipes_682,Shell Arch,100,Lazy villager 
+recipes_683,Shell Bed,0,Peppy villager 
+recipes_684,Shell Fountain,0,Lazy villager 
+recipes_685,Shell Lamp,0,Big sister villager 
+recipes_686,Shell Music Box,50,Peppy villager 
+recipes_687,Shell Partition,0,Big sister villager 
+recipes_688,Shell Rug,0,Peppy villager 
+recipes_689,Shell Speaker,0,Big sister villager 
+recipes_690,Shell Stool,0,Big sister villager 
+recipes_691,Shell Table,0,Peppy villager 
+recipes_692,Shell Wand,0,Balloons Message Bottle 
+recipes_693,Shell Wreath,0,Balloons Isabelle 
+recipes_694,Shellfish Pochette,0,Balloons Message Bottle 
+recipes_695,Shovel,0,Pretty Good Tools Recipes 
+recipes_696,Signpost,100,Lazy villager 
+recipes_697,Silo,0,Nook Miles Redemption 
+recipes_698,Simple DIY Workbench,0,Jock villager Nintendo 
+recipes_699,Simple Mum Crown,200,Any villager 
+recipes_700,Simple Pillar,0,Niko 
+recipes_701,Simple Well,0,Nook Miles Redemption 
+recipes_702,Simple Wooden Fence,0,Nook Miles Redemption 
+recipes_703,Skateboard Wall Rack,0,Jock villager 
+recipes_704,Ski-Slope Flooring,0,Balloons Message Bottle 
+recipes_705,Ski-Slope Wall,0,Balloons Message Bottle 
+recipes_706,Sky-Egg Outfit,0,Bunny Day 
+recipes_707,Sky-Egg Shell,0,Bunny Day 
+recipes_708,Sky-Egg Shoes,0,Bunny Day 
+recipes_709,Sleigh,0,Cranky villager 
+recipes_710,Slingshot,0,Nook's Cranny 
+recipes_711,Small Cardboard Boxes,0,Peppy villager 
+recipes_712,Small Wooden Partition,0,Snooty villager 
+recipes_713,Snack Bread,0,Any villager Restaurant 
+recipes_714,Snazzy Pansy Wreath,100,Any villager 
+recipes_715,Snowflake Pochette,0,Balloons Message Bottle 
+recipes_716,Snowflake Wall,0,Balloons Message Bottle 
+recipes_717,Snowflake Wreath,0,Balloons Isabelle 
+recipes_718,Snowperson Head,0,Snowboy 
+recipes_719,Space Shuttle,0,Celeste Message Bottle 
+recipes_720,Spaghetti Marinara,0,Any villager Restaurant 
+recipes_721,Spaghetti Napolitan,0,Any villager Restaurant 
+recipes_722,Spiky Fence,0,Nook Miles Redemption 
+recipes_723,Spooky Arch,0,Any villager Balloons 
+recipes_724,Spooky Candy Set,0,Any villager Balloons 
+recipes_725,Spooky Carriage,0,Jack 
+recipes_726,Spooky Chair,0,Any villager Balloons 
+recipes_727,Spooky Cookies,0,Balloons Any villager 
+recipes_728,Spooky Fence,0,Any villager Balloons 
+recipes_729,Spooky Garland,0,Any villager 
+recipes_730,Spooky Lantern,0,Any villager Balloons 
+recipes_731,Spooky Lantern Set,0,Any villager Balloons 
+recipes_732,Spooky Scarecrow,0,Any villager Balloons 
+recipes_733,Spooky Standing Lamp,0,Any villager Balloons 
+recipes_734,Spooky Table,0,Any villager Balloons 
+recipes_735,Spooky Table Setting,0,Any villager 
+recipes_736,Spooky Tower,0,Any villager Balloons 
+recipes_737,Spooky Treats Basket,0,Any villager Balloons 
+recipes_738,Spooky Tree,0,Any villager Balloons 
+recipes_739,Spooky Trick Lamp,0,Any villager Balloons 
+recipes_740,Spooky Wand,0,Jack 
+recipes_741,Squid-Ink Curry,0,Fishing 
+recipes_742,Squid-Ink Spaghetti,0,Fishing 
+recipes_743,Stack of Books,100,Lazy villager 
+recipes_744,Stacked Bottle Crates,0,Jock villager 
+recipes_745,Stacked Fish Containers,0,Lazy villager 
+recipes_746,Stacked Magazines,100,Peppy villager 
+recipes_747,Stacked Senmaizuke Barrels,0,Cranky villager 
+recipes_748,Stacked Shopping Baskets,0,Normal villager 
+recipes_749,Stacked-Wood Wall,0,Jock villager 
+recipes_750,Stall,0,Nook Miles Redemption 
+recipes_751,Standard Umbrella Stand,0,Cranky villager 
+recipes_752,Star Clock,0,Celeste Message Bottle 
+recipes_753,Star Head,0,Celeste Message Bottle 
+recipes_754,Star Pochette,0,Celeste Message Bottle 
+recipes_755,Star Wand,0,Celeste Message Bottle 
+recipes_756,Starry Garland,0,Celeste Message Bottle 
+recipes_757,Starry Wall,0,Celeste Message Bottle 
+recipes_758,Starry-Sands Flooring,0,Balloons Message Bottle 
+recipes_759,Starry-Skies Rug,100,Celeste Message Bottle 
+recipes_760,Starry-Sky Wall,0,Celeste Message Bottle 
+recipes_761,Steamer-Basket Set,0,Balloons Message Bottle 
+recipes_762,Steel Flooring,0,Smug villager 
+recipes_763,Steel Pillar,0,Niko 
+recipes_764,Steel-Frame Wall,0,Smug villager 
+recipes_765,Stone Arch,0,Nook Miles Redemption 
+recipes_766,Stone Axe,0,Pretty Good Tools Recipes 
+recipes_767,Stone Fence,0,Nook Miles Redemption 
+recipes_768,Stone Lion-Dog,100,Smug villager 
+recipes_769,Stone Stool,0,DIY for Beginners 
+recipes_770,Stone Table,0,Tom Nook Lazy villager 
+recipes_771,Stone Tablet,0,Nook Miles Redemption 
+recipes_772,Stone Wall,0,Smug villager 
+recipes_773,Stone-Egg Outfit,0,Bunny Day 
+recipes_774,Stone-Egg Shell,0,Bunny Day 
+recipes_775,Stone-Egg Shoes,0,Bunny Day 
+recipes_776,Stonework Kitchen,0,Be a Chef! DIY Recipes+ 
+recipes_777,Straw Fence,0,Nook Miles Redemption 
+recipes_778,Straw Umbrella Hat,0,Smug villager 
+recipes_779,Street Piano,100,Big sister villager 
+recipes_780,Succulent Plant,0,Fishing 
+recipes_781,Sugar,0,Be a Chef! DIY Recipes+ 
+recipes_782,Sugar Crepe,0,Any villager Restaurant 
+recipes_783,Summer-Shell Rug,0,Balloons 
+recipes_784,Suspicious Cauldron,0,Message Bottle 
+recipes_785,Swinging Bench,0,Tom Nook Test Your DIY Skills 
+recipes_786,Tabletop Festive Tree,0,Balloons Any villager 
+recipes_787,Tall Brick Island Counter,0,Niko 
+recipes_788,Tall Concrete Island Counter,0,Niko 
+recipes_789,Tall Garden Rock,0,Snooty villager 
+recipes_790,Tall Golden Island Counter,0,Niko 
+recipes_791,Tall Lantern,100,Smug villager 
+recipes_792,Tall Marble Island Counter,0,Niko 
+recipes_793,Tall Simple Island Counter,0,Niko 
+recipes_794,Tall Steel Island Counter,0,Niko 
+recipes_795,Tall Wooden Island Counter,0,Niko 
+recipes_796,Taurus Bathtub,0,Celeste Message Bottle 
+recipes_797,Tea Table,0,Cranky villager 
+recipes_798,Tension-Pole Rack,0,Big sister villager 
+recipes_799,Terrarium,0,Normal villager 
+recipes_800,Three-Tiered Snowperson,0,Snowboy 
+recipes_801,Thumbprint Jam Cookies,0,Any villager Restaurant 
+recipes_802,Tiki Torch,0,Tom Nook Cranky villager 
+recipes_803,Timber Doorplate,50,Snooty villager 
+recipes_804,Tiny Library,100,Normal villager 
+recipes_805,Tire Stack,0,Fishing 
+recipes_806,Tire Toy,0,Fishing 
+recipes_807,Tomates al Ajillo,0,Any villager Restaurant 
+recipes_808,Tomato Bagel Sandwich,0,Any villager Restaurant 
+recipes_809,Tomato Curry,0,Be a Chef! DIY Recipes+ 
+recipes_810,Tomato Juice,0,Any villager Restaurant 
+recipes_811,Tomato Puree,0,Basic Cooking Recipes 
+recipes_812,Traditional Balancing Toy,0,Balloons 
+recipes_813,Traditional Straw Coat,0,Normal villager 
+recipes_814,Trash Bags,0,Fishing 
+recipes_815,Tree Branch Wreath,50,Big sister villager 
+recipes_816,Tree Standee,0,Jock villager 
+recipes_817,Tree's Bounty Arch,0,Balloons Message Bottle 
+recipes_818,Tree's Bounty Big Tree,0,Balloons Message Bottle 
+recipes_819,Tree's Bounty Lamp,0,Balloons 
+recipes_820,Tree's Bounty Little Tree,0,Balloons Isabelle 
+recipes_821,Tree's Bounty Mobile,0,Balloons 
+recipes_822,Tree-Branch Wand,0,Celeste Message Bottle 
+recipes_823,Tree-Stump Rug,0,Snooty villager 
+recipes_824,Trophy Case,100,Jock villager 
+recipes_825,Tropical Vista,0,Balloons Message Bottle 
+recipes_826,Tulip Crown,0,Any villager 
+recipes_827,Tulip Surprise Box,50,Jock villager 
+recipes_828,Tulip Wand,0,Celeste Message Bottle 
+recipes_829,Tulip Wreath,50,Any villager Tom Nook 
+recipes_830,Turkey Day Casserole,0,Cozy Turkey Day DIY 
+recipes_831,Turkey Day Chair,0,Cozy Turkey Day DIY 
+recipes_832,Turkey Day Decorations,0,Cozy Turkey Day DIY 
+recipes_833,Turkey Day Garden Stand,0,Cozy Turkey Day DIY 
+recipes_834,Turkey Day Hearth,0,Cozy Turkey Day DIY 
+recipes_835,Turkey Day Table,0,Cozy Turkey Day DIY 
+recipes_836,Turkey Day Table Setting,0,Cozy Turkey Day DIY 
+recipes_837,Turkey Day Wheat Decor,0,Cozy Turkey Day DIY 
+recipes_838,Turnip Salad,0,Daisy Mae 
+recipes_839,Ukulele,0,Smug villager 
+recipes_840,Underwater Flooring,0,Balloons Message Bottle 
+recipes_841,Underwater Wall,0,Balloons Message Bottle 
+recipes_842,Unglazed Dish Set,0,Snooty villager 
+recipes_843,Vaulting Pole,0,Blathers Nook's Cranny 
+recipes_844,Veggie Basket,0,Leif 
+recipes_845,Veggie Cookies,0,Any villager Restaurant 
+recipes_846,Veggie Crepe,0,Any villager Restaurant 
+recipes_847,Veggie Cupcakes,0,Any villager Restaurant 
+recipes_848,Veggie Quiche,0,Any villager Restaurant 
+recipes_849,Veggie Sandwich,0,Any villager Restaurant 
+recipes_850,Vertical-Board Fence,0,Nook Miles Redemption 
+recipes_851,Vine Bench,0,Message Bottle 
+recipes_852,Vine Crown,0,Message Bottle 
+recipes_853,Vine Garland,0,Message Bottle 
+recipes_854,Vine Hanging Chair,0,Message Bottle 
+recipes_855,Vine Ladder Set-Up Kit,0,Message Bottle 
+recipes_856,Vine Lamp,0,Message Bottle 
+recipes_857,Vine Outfit,0,Message Bottle 
+recipes_858,Virgo Harp,0,Celeste Message Bottle 
+recipes_859,Wand,0,Celeste Message Bottle 
+recipes_860,Water Flooring,0,Balloons Message Bottle 
+recipes_861,Water Pump,0,Tom Nook Lazy villager 
+recipes_862,Water-Egg Outfit,0,Bunny Day 
+recipes_863,Water-Egg Shell,0,Bunny Day 
+recipes_864,Water-Egg Shoes,0,Bunny Day 
+recipes_865,Watering Can,0,Pretty Good Tools Recipes 
+recipes_866,Wave Breaker,0,Nook Miles Redemption 
+recipes_867,Wedding Fence,0,Harvey 
+recipes_868,Wedding Wand,0,Cyrus 
+recipes_869,Western-Style Stone,100,Normal villager 
+recipes_870,Whole-Wheat Flour,0,Basic Cooking Recipes 
+recipes_871,Wild Log Bench,0,Jock villager 
+recipes_872,Wild-Wood Wall,0,Cranky villager 
+recipes_873,Windflower Crown,0,Any villager 
+recipes_874,Windflower Fan,50,Lazy villager 
+recipes_875,Windflower Wand,0,Celeste Message Bottle 
+recipes_876,Windflower Wreath,50,Any villager Tom Nook 
+recipes_877,Wobbling Zipper Toy,0,Zipper 
+recipes_878,Wood-Egg Outfit,0,Bunny Day 
+recipes_879,Wood-Egg Shell,0,Bunny Day 
+recipes_880,Wood-Egg Shoes,0,Bunny Day 
+recipes_881,Wooden Bookshelf,100,Lazy villager 
+recipes_882,Wooden Box,0,Peppy villager 
+recipes_883,Wooden Bucket,0,Tom Nook Smug villager 
+recipes_884,Wooden Chair,0,Tom Nook Snooty villager 
+recipes_885,Wooden Chest,0,Lazy villager 
+recipes_886,Wooden Double Bed,0,Smug villager 
+recipes_887,Wooden End Table,0,Snooty villager 
+recipes_888,Wooden Field Sign,0,Jock villager 
+recipes_889,Wooden Fish,0,Wildest Dreams DIY 
+recipes_890,Wooden Full-Length Mirror,0,Peppy villager 
+recipes_891,Wooden Ladder Set-Up Kit,0,Nook's Cranny Message Bottle 
+recipes_892,Wooden Low Table,0,Smug villager 
+recipes_893,Wooden Mini Table,0,Big sister villager 
+recipes_894,Wooden Music Box,50,Snooty villager 
+recipes_895,Wooden Pillar,0,Niko 
+recipes_896,Wooden Simple Bed,0,Tom Nook Lazy villager 
+recipes_897,Wooden Stool,0,Peppy villager 
+recipes_898,Wooden Storage Shed,0,Nook Miles Redemption 
+recipes_899,Wooden Table,0,Big sister villager 
+recipes_900,Wooden Table Mirror,0,Big sister villager 
+recipes_901,Wooden Toolbox,0,Normal villager 
+recipes_902,Wooden Wardrobe,0,Tom Nook 
+recipes_903,Wooden Waste Bin,0,Big sister villager 
+recipes_904,Wooden-Block Bed,0,Normal villager 
+recipes_905,Wooden-Block Bench,0,Big sister villager 
+recipes_906,Wooden-Block Bookshelf,0,Test Your DIY Skills 
+recipes_907,Wooden-Block Chair,0,Test Your DIY Skills 
+recipes_908,Wooden-Block Chest,0,Normal villager 
+recipes_909,Wooden-Block Stereo,0,Tom Nook Test Your DIY Skills 
+recipes_910,Wooden-Block Stool,0,Peppy villager 
+recipes_911,Wooden-Block Table,0,Tom Nook Big sister villager 
+recipes_912,Wooden-Block Toy,0,DIY for Beginners 
+recipes_913,Wooden-Block Wall Clock,50,Peppy villager 
+recipes_914,Wooden-Knot Wall,0,Smug villager 
+recipes_915,Wooden-Mosaic Wall,0,Normal villager 
+recipes_916,Wooden-Plank Sign,50,Cranky villager 
+recipes_917,Woodland Wall,0,Normal villager 
+recipes_918,Woven-Vine Pochette,0,Message Bottle 
+recipes_919,Woven-Vines Hat,0,Message Bottle 
+recipes_920,Yellow Bamboo Mat,0,Balloons Message Bottle 
+recipes_921,Yellow Star Rug,100,Celeste Message Bottle 
+recipes_922,Yellow-Leaf Pile,0,Balloons 
+recipes_923,Zen Fence,0,Nook Miles Redemption 
+recipes_924,Zen-Style Stone,100,Lazy villager 
