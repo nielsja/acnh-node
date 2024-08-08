@@ -1,12 +1,18 @@
 {
   "compilerOptions": {
     "esModuleInterop": true,
+    "resolveJsonModule": true,
     "moduleResolution": "node",
     "outDir": "dist",
     "sourceMap": false,
     "strict": true,
     "target": "ES5"
   },
-  "exclude": ["node_modules"],
-  "include": ["src/**/*.ts", "sample.ts"]
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "src/**/*.ts",
+    "sample.ts"
+  ]
 }
